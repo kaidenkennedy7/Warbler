@@ -4,7 +4,6 @@
 #
 #    python -m unittest test_user_model.py
 
-
 import os
 from unittest import TestCase
 from sqlalchemy.exc import IntegrityError
